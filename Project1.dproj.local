@@ -1,8 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2015.07.10 20:18:59.178.pas,C:\Users\Peter\Documents\RAD Studio\Projekte\Unit1.pas=P:\workspace\myRepo\Unit1.pas</Transaction>
-    <Transaction>2015.07.10 20:18:59.178.dfm,C:\Users\Peter\Documents\RAD Studio\Projekte\Unit1.dfm=P:\workspace\myRepo\Unit1.dfm</Transaction>
-    <Transaction>2015.07.10 20:19:00.947.dproj,C:\Users\Peter\Documents\RAD Studio\Projekte\Project1.dproj=P:\workspace\myRepo\Project1.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
+<BorlandProject/>
